@@ -1,5 +1,5 @@
 -  Hi, I’m @ardf
-- I'm interested in Python Application development
+- I'm interested in Application development using Python and Java
 -  I’m currently learning Fullstack Web Development
 - 📫 How to reach me -
 ruyefadf@gmail.com
