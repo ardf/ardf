@@ -1,5 +1,6 @@
 -  Hi, I’m Ahamed Ruyefa
 -  I’m currently learning Django.
+-  View My <a href="https://ardf.github.io">Personal Portfolio </a>
 -  Let's connect on <a href="https://www.linkedin.com/in/ardf/">Linkedin</a>
 - 📫 - ruyefadf@gmail.com
 
